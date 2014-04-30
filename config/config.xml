@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <environment>P</environment>
+    <adminsitename>DEBCMS</adminsitename>
+    <adminsitedescription>Beheer uw website en app in dezelfde omgeving, ook op uw mobiel.</adminsitedescription>
+    <profileFolder>modules/profile/</profileFolder>
+    <pageFolder>modules/pages/</pageFolder>
+    <snippetFolder>modules/snippets/</snippetFolder>
+    <portfolioFolder>modules/portfolio/</portfolioFolder>
+    <frontendName>DT Montage</frontendName>
+    <frontendDescription>DT Montage</frontendDescription>
+    <frontendTitle>DT Montage</frontendTitle>
+    <contactEmail>info@dt-montage.nl</contactEmail>
+    <keys environment="O">
+        <host>localhost</host>
+        <database>debcms</database>
+        <user>cmscontroller</user>
+        <password>D3bCmS</password>
+        <url>http://localhost:8080/Development/DEBCMS/</url>
+    </keys>
+    <keys environment="T">
+        <host>localhost</host>
+        <database>debcms</database>
+        <user>cmscontroller</user>
+        <password>D3bCmS</password>
+        <url>http://www.debmedia.nl/</url>
+    </keys>
+    <keys environment="P">
+        <host>10.246.16.73</host>
+        <database>dt_montage_nl</database>
+        <user>dt_montage_nl</user>
+        <password>Nvy3SSNZ</password>
+        <url>http://www.dt-montage.nl/</url>
+    </keys>
+</settings>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+      <loc>http://www.dt-montage.nl/</loc>
+    </url>
+    <url>
+      <loc>http://www.dt-montage.nl/?module=home</loc>
+    </url>
+    <url>
+      <loc>http://www.dt-montage.nl/?module=over-dt-montage</loc>
+    </url>
+    <url>
+      <loc>http://www.dt-montage.nl/?module=cv-ketels</loc>
+    </url>
+    <url>
+      <loc>http://www.dt-montage.nl/?module=loodgieterswerk</loc>
+    </url>
+    <url>
+      <loc>http://www.dt-montage.nl/?module=vervanging-en-onderhoud</loc>
+    </url>
+    <url>
+      <loc>http://www.dt-montage.nl/?module=portfolio</loc>
+    </url>
+    <url>
+      <loc>http://www.dt-montage.nl/?module=contact</loc>
+    </url>
+</urlset>
